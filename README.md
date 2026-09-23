@@ -41,3 +41,23 @@ Projeto de banco de dados relacional desenvolvido em MySQL para análise de vend
 **Tecnologias:** MySQL | SQL | Banco de Dados Relacional
 
 🔗 [Ver projeto no GitHub](https://github.com/brunasantileite078-ai/projeto-banco-carros)
+
+## 🎓 Formação
+
+**Bacharelado em Ciência de Dados**  
+UNIVESP — Em andamento
+
+## 🚀 Atualmente estudando
+
+- SQL e Banco de Dados
+- Python para Análise de Dados
+- Power BI
+- Inteligência Artificial
+- Engenharia de Prompt
+- Git e GitHub
+
+## 📫 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bruna-santiago-38b45b1a5/)
+  
+
