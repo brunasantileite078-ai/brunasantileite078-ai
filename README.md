@@ -1,6 +1,6 @@
 # brunasantileite078-ai
 
-# Olá! Eu sou a Bruna 👋
+# Bruna Santiago
 
 🎓 Estudante de Ciência de Dados  
 💻 SQL | MySQL | Python | Power BI  
@@ -31,3 +31,13 @@ Meu objetivo é utilizar dados para gerar informações relevantes e apoiar a to
 - Análise de Dados
 - Inteligência Artificial
 - LGPD
+
+## 📊 Projetos
+
+### 🚗 Projeto Banco de Carros
+
+Projeto de banco de dados relacional desenvolvido em MySQL para análise de vendas de veículos.
+
+**Tecnologias:** MySQL | SQL | Banco de Dados Relacional
+
+🔗 [Ver projeto no GitHub](https://github.com/brunasantileite078-ai/projeto-banco-carros)
